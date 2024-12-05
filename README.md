@@ -24,5 +24,4 @@
  Technologies DB:
  - MariaDB 10.6.4
 
-# LICENSE
-Apache-2.0 License
+
